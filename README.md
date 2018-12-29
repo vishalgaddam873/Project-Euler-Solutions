@@ -1,7 +1,7 @@
 # Project_Euler_Solutions
 
 ### About Project Euler
-![alt text](https://www.google.com/url?sa=i&source=imgres&cd=&cad=rja&uact=8&ved=2ahUKEwjo5_6IxcTfAhWVQd4KHYLQCuMQjRx6BAgBEAU&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FLeonhard_Euler&psig=AOvVaw3uMExJDSAE9CFI5mlsn0ko&ust=1546155726850757)
+![Euler image](https://www.google.com/url?sa=i&source=imgres&cd=&cad=rja&uact=8&ved=2ahUKEwjo5_6IxcTfAhWVQd4KHYLQCuMQjRx6BAgBEAU&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FLeonhard_Euler&psig=AOvVaw3uMExJDSAE9CFI5mlsn0ko&ust=1546155726850757)
 
 Leonhard Euler (1707-1783)
 #### Where should I start?
